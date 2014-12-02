@@ -1,0 +1,36 @@
+body{
+    font-family:sans-serif;
+    size:2;
+    background-color:#000000;
+    link:green;
+    vlink:#00AA00
+}
+
+#container {
+    margin:3%;
+    display: table;
+    width: 100%;
+}
+
+#left {
+    display:table-header-group;
+}
+
+#right {
+    display:table-footer-group;
+}
+
+h3{
+    color:green;
+    text-decoration:underline;
+    margin-left:3%
+}
+a{
+    color:green;
+    text-decoration:none;
+}
+a:visited{
+    color:#00ff00;
+}
+
+a img {border:none;}
